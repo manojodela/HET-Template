@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1364" height="570" viewBox="0 0 1364 570">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.073" y1="0.532" x2="0.64" y2="0.532" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset="0.728" stop-color="#efefef" stop-opacity="0.914"/>
+      <stop offset="1" stop-color="#fff" stop-opacity="0.322"/>
+    </linearGradient>
+  </defs>
+  <rect id="love-and-meditation-img" width="1364" height="570" opacity="0.8" fill="url(#linear-gradient)"/>
+</svg>
